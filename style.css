@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sancreek&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+
+.titulo1{  font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;}
+
+.centro{text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;}
+
+.box1{text-align: center;
+padding: 50px; 
+width: 500px;
+margin: 20px;
+background-color: rgb(202, 37, 37);
+ justify-self:center ;}
+
+.box2{text-align: center;
+    padding: 50px; 
+    width: 500px;
+    margin: 20px;
+    background-color: rgb(83, 105, 177);
+     justify-self:center ;}
+
+.box3{text-align: center;
+    padding: 50px; 
+    width: 500px;
+    margin: 20px;
+    background-color: rgb(247, 155, 205);
+     justify-self:center ;}
+
+.h1{font-family: "Sancreek", serif;
+    font-weight: 400;
+    font-style: normal;
+text-align:left;}
+
+.h2{  font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;}
+
